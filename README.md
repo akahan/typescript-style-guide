@@ -1,20 +1,5 @@
 # Стандарты кодирования TypeScript кода
 
-*Наиболее разумный подход к написанию JavaScript кода*
-
-> **Замечание**: это руководство подразумевает использование [Babel](https://babeljs.io) вместе с [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) или аналогом. Оно также предполагает установленный shims/polyfills в вашем приложении, такой как [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) или аналог.
-
-[![Скачать](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Скачать](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Это руководство также доступно на других языках. Смотрите [Переводы](#translation).
-
-Другие руководства
-
- - [React](react/)
- - [CSS-in-JavaScript](css-in-javascript/)
-
 ## Оглавление
 
   1. [Типы](#types)
