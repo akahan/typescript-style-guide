@@ -1,4 +1,4 @@
-# Руководство по написанию JavaScript кода от [Airbnb](https://github.com/airbnb/javascript/)() {
+# Стандарты кодирования TypeScript кода
 
 *Наиболее разумный подход к написанию JavaScript кода*
 
